@@ -1,4 +1,4 @@
-# Project Title
+# CMSC335-FinalProject - Traffic Simulator
 
 Java Swing GUI Traffic Simulator - CMSC 335 
 
